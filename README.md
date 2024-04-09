@@ -1,4 +1,5 @@
 # KNES 381 Project
+Hi, here is my KNES 381 website I made to showcase my work!
 
 # Credits
 Massively by HTML5 UP
